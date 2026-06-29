@@ -1,0 +1,11 @@
+# Feature Checklist
+- [ ] Use cases identified; domain terms match `00-project/glossary.md`.
+- [ ] Layer boundaries respected (`01-rules/architecture/clean.md`).
+- [ ] DTOs validated; entities never exposed directly.
+- [ ] AuthN + AuthZ enforced (guards + permissions).
+- [ ] Related business rules covered by tests (BR ids tagged).
+- [ ] Errors mapped via filters; stable error contract.
+- [ ] Logging + metrics + tracing added.
+- [ ] Migrations written + tested (if schema changed).
+- [ ] Swagger/OpenAPI updated.
+- [ ] Unit + integration/e2e tests green; coverage gate met.
