@@ -51,8 +51,6 @@ Instead of asking an AI to generate random code, NestPilot provides architecture
 * Cursor
 * GitHub Copilot
 * Gemini
-* Windsurf
-* Continue.dev
 
 ---
 
